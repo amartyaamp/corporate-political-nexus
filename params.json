@@ -1,0 +1,6 @@
+{
+  "name": "Indian corporate-political nexus",
+  "tagline": "Construction of a watchdog for Indian corporate and political networks",
+  "body": "### ## The corporate political nexus\r\n\r\nEver wondered whom the power stays in the world's largest democracy? \r\nHow the so-called leaders of the country are related to the corporates ( bureaucracy) and vice-versa ? \r\n \r\nThis project is an endeavour to give answers to these questions. \r\nConsists of-  \r\n1. _**scrapy modules**_ written to scrape relevant data  \r\n2. _**graph db models**_ to store the information for study  \r\n3. _**web app in flask**_ for disemmination of the data and its visualisations.  \r\n  \r\n   \r\n  \r\nWatch the video to know details - [The corporate political nexus](https://youtu.be/pnta2nG6Qw8) \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
